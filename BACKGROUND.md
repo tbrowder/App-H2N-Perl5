@@ -1,7 +1,7 @@
 # h2n
 
 This public repository is a place holder for the latest version of the
-code for the Perl 5 program *h2n*.  *h2n* is a Perl 5 utility program
+code for the Perl 5 program *h2n*, along withits accompanying scripts, example configuration file, and its documentation in several formats. *h2n* is a Perl 5 utility program
 which is discussed in the book *DNS and BIND*, by Cricket Liu and Paul
 Albitz, and published by *O'Reilly Media, Inc.*
 
