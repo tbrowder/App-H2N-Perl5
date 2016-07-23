@@ -1,7 +1,7 @@
 # h2n
 
-This public repository is a place holder for the latest version of the
-code for the Perl 5 program *h2n*, along withits accompanying scripts, example configuration file, and its documentation in several formats. *h2n* is a Perl 5 utility program
+This public repository is a place holder for the latest HP version of the
+code for the Perl 5 program *h2n*, along with its accompanying scripts, example configuration file, and its documentation in several formats. *h2n* is a Perl 5 utility program
 which is discussed in the book *DNS and BIND*, by Cricket Liu and Paul
 Albitz, and published by *O'Reilly Media, Inc.*
 
@@ -32,4 +32,4 @@ does contain licensing info which is quoted here:
 >     h2n-hp,v 1.96 1999/12/02 22:05:56 milli (Michael Milligan), Hewlett-Packard
 >     Extended to v 2.61rc8 2010-08-31 by Andris Kalnozols, HP Labs
 
-That file is now incorporated into this repo, and the text above is extrated as the LICENSE.
+That file is now incorporated into this repo, and the text above is extracted as the LICENSE.
